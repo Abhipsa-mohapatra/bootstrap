@@ -1,0 +1,5 @@
+.hover:hover{
+    box-shadow: 0 0 3px 0 #1877f2;
+    border-radius: 6px;
+    outline:1px solid #115fc5;
+}

@@ -1,0 +1,15 @@
+body{
+    background-color: #f0f2f5;
+}
+
+.hover:hover {
+    box-shadow: 0 0 5px 0 rgb(213, 207, 207);
+    transition: 0.5s ease-out;
+    transform: translatey(-5px);
+    
+}
+.active:hover{
+    box-shadow: 0 0 3px 0 #1877f2;
+    border-radius: 6px;
+    outline:1px solid #1877f2;
+}
